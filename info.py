@@ -40,9 +40,9 @@ AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_chan
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information *
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://pawanivimasha8:20030928@autofilter.jdtmx.mongodb.net/?retryWrites=true&w=majority&appName=AutoFilter")
-DATABASE_NAME = environ.get('DATABASE_NAME', "LazyDeveloper")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://pissuhadenawa15:20030928@cloners.vtvwi.mongodb.net/?retryWrites=true&w=majority&appName=cloners")
+DATABASE_NAME = environ.get('DATABASE_NAME', "techvjclonefilterbot")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'vjcollection')
 
 # LOG CHANNELS *
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
