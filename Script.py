@@ -5,10 +5,10 @@ class script(object):
 Glad to see you here. It seems that you really love <a href=https://t.me/bitget_srilankan >Child Coder's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LKFilm_Botss>Dev Channel</a> and stay tuned for next <a href=https://t.me/LKFilm_Botssr>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/bitget_srilankan>LazyDev Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/oh_th >Child Coder's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/bitget_srilankan>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/oh_th >Child Coder's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/bitget_srilankan>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
 \nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/bitget_srilankan>LazyDeveloper Support</a>\n\n
@@ -107,7 +107,7 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>🦋 𝕃𝕒𝕫𝕪𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🦋</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/oh_th>Bjs Coder</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -116,11 +116,7 @@ Here is the help for my COMMANDS."""
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 🎉Lᴀᴢʏ Pʀɪɴᴄᴇss ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- 🎁Sᴏᴜʀᴄᴇ - https://github.com/LazyDeveloperr/LazyPrincess 
- 
-- ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
+Not A Open Source Project !
 
 <b>DEV:</b>
 - 🦋 <a href=https://t.me/bitget_srilankan>ChildCoder</a> 🦋"""
@@ -147,7 +143,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/oh_th)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -155,7 +151,7 @@ Here is the help for my COMMANDS."""
 
 <b>NOTE:</b>
 1. 🇲​​​​​🇦​​​​​🇰​​​​​🇪​​​​​ 🇲​​​​​🇪​​​​​ 🇹​​​​​🇭​​​​​🇪​​​​​ 🇦​​​​​🇩​​​​​🇲​​​​​🇮​​​​​🇳​​​​​ 🇴​​​​​🇫​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​🇷​​​​​ 🇨​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇳​​​​​🇪​​​​​🇱​​​​​ 🇮​​​​​🇫​​​​​ 🇮​​​​​🇹​​​​​'🇸​​​​​ 🇵​​​​​🇷​​​​​🇮​​​​​🇻​​​​​🇦​​​​​🇹​​​​​🇪​​​​​.
-2. 🇲​​​​​🇦​​​​​🇰​​​​​🇪​​​​​ 🇸​​​​​🇺​​​​​🇷​​​​​🇪​​​​​ 🇹​​​​​🇭​​​​​🇦​​​​​🇹​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​🇷​​​​​ 🇨​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇳​​​​​🇪​​​​​🇱​​​​​ 🇩​​​​​🇴​​​​​🇪​​​​​🇸​​​​​ 🇳​​​​​🇴​​​​​🇹​​​​​ 🇨​​​​​🇴​​​​​🇳​​​​​🇹​​​​​🇦​​​​​🇮​​​​​🇳​​​​​🇸​​​​​ 🇨​​​​​🇦​​​​​🇲​​​​​🇷​​​​​🇮​​​​​🇵​​​​​🇸​​​​​, 🇵​​​​​🇴​​​​​🇷​​​​​🇳​​​​​ 🇦​​​​​🇳​​​​​🇩​​​​​ 🇫​​​​​🇦​​​​​🇰​​​​​🇪​​​​​ 🇫​​​​​🇮​​​​​🇱​​​​​🇪​​​​​🇸​​​​​.
+2. 🇲​​​​​🇦​​​​​🇰​​​​​🇪​​​​​ 🇸​​​​​🇺​​​​​🇷​​​​​🇪​​​​​ 🇹​​​​​🇭​​​​​🇦​​​​​🇹​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​🇷​​​​​ 🇨​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇳​​​​​🇪​​​​​🇱​​​​​ 🇩​​​​​🇴​​​​​🇪​​​​​🇸​​​​​ 🇳​​​​​🇴​​​​​🇹​​​​​ 🇨​​​​​🇴​​​​​🇳​​​​​🇹​​​​​🇦​​​​​🇮​​​​​🇳​​​​​🇸​​​​​ 🇨​​​​​🇦​​​​​🇲​​​​​🇷​​​​​🇮​​​​​🇵​​​​​🇸​​​​​ 🇦​​​​​🇳​​​​​🇩​​​​​ 🇫​​​​​🇦​​​​​🇰​​​​​🇪​​​​​ 🇫​​​​​🇮​​​​​🇱​​​​​🇪​​​​​🇸​​​​​.
 3. 🇫​​​​​🇴​​​​​🇷​​​​​🇼​​​​​🇦​​​​​🇷​​​​​🇩​​​​​ 🇹​​​​​🇭​​​​​🇪​​​​​ 🇱​​​​​🇦​​​​​🇸​​​​​🇹​​​​​ 🇲​​​​​🇪​​​​​🇸​​​​​🇸​​​​​🇦​​​​​🇬​​​​​🇪​​​​​ 🇹​​​​​🇴​​​​​ 🇲​​​​​🇪​​​​​ 🇼​​​​​🇮​​​​​🇹​​​​​🇭​​​​​ 🇶​​​​​🇺​​​​​🇴​​​​​🇹​​​​​🇪​​​​​🇸​​​​​.
  🇮​​​​​'🇱​​​​​🇱​​​​​ 🇦​​​​​🇩​​​​​🇩​​​​​ 🇦​​​​​🇱​​​​​🇱​​​​​ 🇹​​​​​🇭​​​​​🇪​​​​​ 🇫​​​​​🇮​​​​​🇱​​​​​🇪​​​​​🇸​​​​​ 🇮​​​​​🇳​​​​​ 🇹​​​​​🇭​​​​​🇦​​​​​🇹​​​​​ 🇨​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇳​​​​​🇪​​​​​🇱​​​​​ 🇹​​​​​🇴​​​​​ 🇲​​​​​🇾​​​​​ 🇩​​​​​🇧​​​​​.
 """
